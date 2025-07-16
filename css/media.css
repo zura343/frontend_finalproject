@@ -118,8 +118,7 @@
   .card h4 {
     color: #222222;
     font-size: 16px;
-    font-family: Rockwell;
-    font-weight: 400;
+
     line-height: 16px;
     letter-spacing: 0.32px;
     word-wrap: break-word;
@@ -134,7 +133,7 @@
   .s1 button {
     color: white;
     font-size: 14px;
-    font-family: Rockwell;
+
     font-weight: 400;
     line-height: 16px;
     letter-spacing: 0.28px;
@@ -149,7 +148,6 @@
   .news_card h6 {
     color: #222222;
     font-size: 16px;
-    font-family: Rockwell Extra Bold;
     font-weight: 800;
     word-wrap: break-word;
   }
@@ -157,7 +155,6 @@
   .news_card p {
     color: #222222;
     font-size: 16px;
-    font-family: Rockwell;
     font-weight: 400;
     line-height: 20px;
     word-wrap: break-word;
@@ -175,7 +172,6 @@
   .welcome_con h2 {
     color: white;
     font-size: 20px;
-    font-family: Rockwell Extra Bold;
     font-weight: 800;
     word-wrap: break-word;
   }
